@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 2 batoi batoi 4096 oct  7 19:11 .
+drwxrwxr-x 4 batoi batoi 4096 oct  7 19:05 ..
+-rw-rw-r-- 1 batoi batoi 3217 oct  7 19:15 Ejercicio1.class
+-rw-rw-r-- 1 batoi batoi 2980 oct  7 19:15 Ejercicio1.java
+-rw-rw-r-- 1 batoi batoi   88 oct  7 19:11 Ejercicio2.java
+-rw-rw-r-- 1 batoi batoi    0 oct  7 19:15 output.txt
+-rw-rw-r-- 1 batoi batoi   85 oct  7 19:11 Reverse.java
